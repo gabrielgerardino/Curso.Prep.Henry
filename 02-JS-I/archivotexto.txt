@@ -1,0 +1,13 @@
+Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables: son objetos en los cuales guardamos cosas que nos intenresa ubicar mas tarde, esas cosas puden ser ejemplo (numeros, strings o booleanos).
+
+	* Strings: es una cadena de caracteres (letras o numeros) que esta siempre escrita entre comillas ('').
+
+	* Funciones (argumentos, `return`): son pedacitos de codigo que se usan cuando necesitamos escribir lo mismo varias veces, asi nos evitamos escribirlo siempre y en su defecto usamos la funcion.
+	Las funciones en su interior pueden tener uno o mas argumentos los cuales se comportan igual que una variable y se separa mediante una coma (,) .
+	Para mostrar los resultados de una funcion debemos utilizar return ya que es la forma de poder sacar los datos y poder usarlo para lo que necesitemos
+
+	* Declaraciones `if`: cuando necesitamos hacer comparaciones utilizamos la palabra clave if, esta nos permite comparar por ejemplo dos numeros y nos da como respuesta verdadero "true" o falso "false"... si queremos sabr si un numero es mayor que otro pudiesemos escribir	if (a > b) , dependiendo de los valores de a y b el if nos respondera true o false.
+
+	* Valores booleanos (`true`, `false`): son valores que nos responden a preguntas que hacemos con funciones utilizando la declaracion 'if', 'true' sera verdadero y 'false' sera falso
